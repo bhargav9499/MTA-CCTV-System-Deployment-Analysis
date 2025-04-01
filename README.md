@@ -1,4 +1,3 @@
-
 # MTA CCTV System Deployment Analysis
 
 ## 📌 Purpose of the Project
@@ -23,6 +22,12 @@ MTA-CCTV-System-Deployment-Analysis/
 │   └── MTA_CCTV_System_Deployment_Analysis_Colab.ipynb
 │
 ├── 📂 images/                    
+│   ├── ADA_Coverage_Chart.png
+│   ├── Top_10_Stations_Chart.png
+│
+├── 📂 reports/                   
+│   ├── CCTV_System_Deployment_Report.docx
+│   ├── CCTV_System_Deployment_Report.pdf
 │
 ├── README.md                    
 ├── .gitignore                   
